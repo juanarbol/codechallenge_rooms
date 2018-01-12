@@ -1,0 +1,21 @@
+{
+  "name": "allrooms-code-challenge",
+  "version": "1.0.0",
+  "description": "Code challenge for fullstack js developer job",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "standard",
+    "start": "node main.js"
+  },
+  "author": "Juan José Arboleda <soyjuanarbol@gmail.com> (https://juanarbol.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0",
+    "standard": "^10.0.3"
+  },
+  "standard": {
+    "globals": ["describe", "it"]
+  }
+}
