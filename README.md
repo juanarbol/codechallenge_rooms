@@ -1,6 +1,6 @@
 # Code challenge
 
-## How to run?
+## How to run?
 
 1. Clone this repo `git clone https://github.com/juanarbol/codechallenge_rooms`
 2. Run `npm install`
